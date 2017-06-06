@@ -1,5 +1,6 @@
-readme,dude,I am your self!(add Iamyourself!-5)
+readme,dude,I am your self!(add Iamyourself!-4)
 add a line!-1
 add a line!-2
 add a line!-3
 I add this line for testing 'git diff'!-4
+I add this sentence the fifth time!-5
