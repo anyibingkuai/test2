@@ -1,4 +1,3 @@
 This is a file to test the branch mydev and master.
 In master, I add this line!-master1
-<<<<<<< HEAD
 In mydev1,I add the second time!-2
