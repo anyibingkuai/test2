@@ -1,1 +1,2 @@
 I touched this file in mydev1 to test stash!
+I add this line in mydev1 to test stash or not!-1
